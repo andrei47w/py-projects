@@ -1,0 +1,14 @@
+repository = binary_repo
+persons = pickle_files/persons.pickle
+activities = pickle_files/activities.pickle
+ui = GUI
+
+repository = text_repo
+persons = text_files/persons.txt
+activities = text_files/activities.txt
+ui = GUI
+
+repository = inmemory_repo
+persons = inmemory
+activities = inmemory
+ui = GUI
