@@ -1,2 +1,0 @@
-DIM = 7
-apple_count = 10
